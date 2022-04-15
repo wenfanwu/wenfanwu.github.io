@@ -9,3 +9,5 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 
 I am a PhD. candinate in the physical oceanography at the Ocean University of China. My research interest is about the coastal oceanography in Chinese adjacent waters, and I am a ocean modeller with training.
 
+## Contact Me
+Email: wenfanwu@stu.ouc.edu.cn
