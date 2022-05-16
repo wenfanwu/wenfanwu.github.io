@@ -1,6 +1,6 @@
 # About me
-
-<p>I am a PhD candidate from the Ocean Unviersity of China, an amatuer programming enthusiast, a skillful ocean modeller.</p>
+Hello, this is Wenfan Wu!
+<p>I am an amatuer programming enthusiast, a skillful ocean modeller, and a PhD candidate from the Ocean Unviersity of China.</p>
 <p>I'm currently studying the coastal dynamics in the Chinese adjacent waters with numerical models. </p>
 
 <h3> Education</h3>
