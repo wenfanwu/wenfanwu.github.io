@@ -1,7 +1,7 @@
 # About me
 
 <p>I am a PhD candidate from the Ocean Unviersity of China, an amatuer programming enthusiast, a skillful ocean modeller.</p>
-<p>I'm currently studying the coastal dynamics in the Chinese adjacent waters. </p>
+<p>I'm currently studying the coastal dynamics in the Chinese adjacent waters with numerical models. </p>
 
 <h3> Education</h3>
   <li>PhD., Physical Oceanography, Ocean University of China, 2020-present</li>
