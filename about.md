@@ -20,8 +20,8 @@ Hello, this is Wenfan Wu!
 
 <h3> Research Experience</h3>
 <li>Sep. 2020 to Present:</li>
-  <p>Construction of a high-resolution biocheical modelling system for the Bohai Sea</p>
-  <p>The circulation issues of the Chinese adjacent waters based on SCHISM model</p>
+  <p>Construction of a high-resolution biochemical modelling system for the Bohai Sea</p>
+  <p>The circulation issues of Chinese adjacent waters based on SCHISM model</p>
 <li>Sep. 2018 to Sep. 2020: </li>
   <p>The evaluation and calibration of the SWAN wave model</p>
   <p></p>
