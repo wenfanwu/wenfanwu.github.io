@@ -6,7 +6,7 @@ Hello, this is Wenfan Wu!
 <h3> Education</h3>
   <li>PhD., Physical Oceanography, Ocean University of China, 2020-present</li>
   <li>M.S., Physical Oceanography, Ocean University of China, 2018-2020</li>
-  <li>B.S., Marine Science, Ocean University of China, China, 2014-2018</li>
+  <li>B.S., Marine Science, Ocean University of China, 2014-2018</li>
 
 
 <h3> Peer-Reviewed Publications</h3>
