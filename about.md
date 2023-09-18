@@ -8,6 +8,18 @@ Hello, this is Wenfan Wu!
   <li>M.S., Physical Oceanography, Ocean University of China, 2018-2020</li>
   <li>B.S., Marine Science, Ocean University of China, 2014-2018</li>
 
+<h3> Research Experience</h3>
+<li>Jun. 2022 to Present:</li>
+  <p>Quantifying the riverine nutrient flux into the coastal regions of China Mainland</p>
+  <p>Physical controls on the ecological disasters off the Qinhuangdao coast, China with the SCHISM model</p>
+  <p>Investigating ecological effects of Yellow River Plume in the Bohai Sea with the SCHISM-CoSiNE coupled model</p>
+
+<li>Sep. 2020 to Jun. 2022:</li>
+  <p>3D structure and physical mechanism of the Bohai summer circulation system with SCHISM</p>
+
+<li>Sep. 2018 to Sep. 2020: </li>
+  <p>The evaluation and calibration of the SWAN wave model</p>
+  <p></p>
 
 <h3> Publications</h3>
 <h4> Published</h4>
@@ -23,12 +35,13 @@ Hello, this is Wenfan Wu!
   <li>Wu, W., Zhai, F., Gu, Y., Liu, Z., & Li, P. (2023). Weak local upwelling elevates the risks of ecological disasters in shallow waters. Environmental Research Letters, under review (second revision).</li>
   <li>Wu, W., Zhai, F., Liu, Z., Liu, C., Gu, Y., & Li, P. (2023). The spatial and seasonal variability of nutrient status in the coastal rivers of China shaped by the human activities. Ecological Indicators, under review.</li>
   <li>Lei, Z., Wu, W., Zhai, F., Gu, Y., & Li, P. (2023). A general method for the optimal whitecapping dissipation coefficient in the SWAN model. Ocean Modelling, under review.</li>
-  
-<h3> Research Experience</h3>
-<li>Sep. 2020 to Present:</li>
-  <p>Construction of a high-resolution biochemical modelling system for the Bohai Sea</p>
-  <p>The circulation issues of Chinese adjacent waters based on SCHISM model</p>
-<li>Sep. 2018 to Sep. 2020: </li>
-  <p>The evaluation and calibration of the SWAN wave model</p>
-  <p></p>
+
+<h3> Professional Skills</h3>
+I have rich experiences in applying numerical ocean models (e.g. SCHISM, ROMS, FVCOM, and SWAN), and familiar with multiple programming languages (e.g. MATLAB, Python, Fortran).
+
+<h3> LANGUAGE SKILLS</h3>
+English —— Limited Business Proficiency (In preparation for TOEFL test)
+Chinese —— Native Speaker
+
+
 
