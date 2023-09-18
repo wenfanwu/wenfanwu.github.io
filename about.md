@@ -19,7 +19,6 @@ Hello, this is Wenfan Wu!
 
 <li>Sep. 2018 to Sep. 2020: </li>
   <p>The evaluation and calibration of the SWAN wave model</p>
-  <p></p>
 
 <h3> Publications</h3>
 <h4> Published</h4>
@@ -42,6 +41,6 @@ I have rich experiences in applying numerical ocean models (e.g. SCHISM, ROMS, F
 <h3> LANGUAGE SKILLS</h3>
 English —— Limited Business Proficiency (In preparation for TOEFL test)
 Chinese —— Native Speaker
-
+<p></p>
 
 
