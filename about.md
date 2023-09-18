@@ -39,8 +39,8 @@ Hello, this is Wenfan Wu!
 I have rich experiences in applying numerical ocean models (e.g. SCHISM, ROMS, FVCOM, and SWAN), and familiar with multiple programming languages (e.g. MATLAB, Python, Fortran).
 
 <h3> Language Skills</h3>
-English —— Limited Business Proficiency (In preparation for TOEFL test)
-Chinese —— Native Speaker
+<li>English —— Limited Business Proficiency (In preparation for TOEFL test)</li>
+<li>Chinese —— Native Speaker</li>
 <p></p>
 
 
