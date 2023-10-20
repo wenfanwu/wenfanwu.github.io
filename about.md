@@ -22,6 +22,8 @@ Hello, this is Wenfan Wu!
 
 <h3> Publications</h3>
 <h4> Published</h4>
+  <li>Wu, W., Zhai, F., Liu, C., Gu, Y., & Li, P. (2023). Three-dimensional structure of summer circulation in the Bohai Sea and its intraseasonal variability. Ocean Dynamics.</li>
+  <li>Wu, W., Zhai, F., Gu, Y., Liu, Z., & Li, P. (2023). Weak local upwelling elevates the risks of ecological disasters in shallow waters. Environmental Research Letters.</li>
   <li>**Wu, W.**, Liu, Z., Zhai, F., Li, P., Gu, Y., & Wu, K. (2021). A quantitative method to calibrate the SWAN wave model based on the whitecapping dissipation term. Applied Ocean Research, 114, 102785.</li>
   <li>**Wu, W.**, Li, P., Zhai, F., Gu, Y., & Liu, Z. (2020). Evaluation of different wind resources in simulating wave height for the Bohai, Yellow, and East China Seas (BYES) with SWAN model. Continental Shelf Research, 207, 104217.</li>
   <li>Zhai, F., **Wu, W.**, Gu, Y., Li, P., & Liu, Z. (2021). Dynamics of the seasonal wave height variability in the South China Sea. International Journal of Climatology, 41(2), 934-951.</li>
@@ -30,8 +32,6 @@ Hello, this is Wenfan Wu!
   <li>Li, J., Li, P., Bai, P., Zhai, F., Gu, Y., Liu, C., ... & **Wu, W.** (2022). Abrupt change of a thermal front in a high-biomass coastal zone during early spring. Frontiers in Marine Science, 9, 1092984.</li>
   <li>Song, X., Gu, Y., Zhai, F., Li, P., Liu, P., Liu, Z., **Wu, W.**, ... & He, J. (2021). Climatology and seasonal variability of satellite-derived chlorophyll-a around the Shandong Peninsula. Journal of Oceanology and Limnology, 39(4), 1222-1244.</li>
 <h4> Under Revision</h4>
-  <li>Wu, W., Zhai, F., Liu, C., Gu, Y., & Li, P. (2023). Three-dimensional structure of summer circulation in the Bohai Sea and its intraseasonal variability. Ocean Dynamics, in press.</li>
-  <li>Wu, W., Zhai, F., Gu, Y., Liu, Z., & Li, P. (2023). Weak local upwelling elevates the risks of ecological disasters in shallow waters. Environmental Research Letters, under review (second revision).</li>
   <li>Wu, W., Zhai, F., Liu, Z., Liu, C., Gu, Y., & Li, P. (2023). The spatial and seasonal variability of nutrient status in the coastal rivers of China shaped by the human activities. Ecological Indicators, under review.</li>
   <li>Lei, Z., Wu, W., Zhai, F., Gu, Y., & Li, P. (2023). A general method for the optimal whitecapping dissipation coefficient in the SWAN model. Ocean Modelling, under review.</li>
 
