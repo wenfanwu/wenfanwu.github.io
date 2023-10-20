@@ -23,7 +23,7 @@ Hello, this is Wenfan Wu!
   <p>3D structure and physical mechanism of the Bohai summer circulation system with SCHISM</p>
 
 <li>Sep. 2018 to Sep. 2020: </li>
-  <p>The evaluation and calibration of the SWAN wave model</p>
+  <p>Evaluation and calibration of the SWAN wave model</p>
 
 <h3> Publications</h3>
 <h4> Published</h4>
