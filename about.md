@@ -3,10 +3,15 @@ Hello, this is Wenfan Wu!
 <p>I am an amatuer programming enthusiast, a skillful ocean modeller, and a PhD candidate from the Ocean Unviersity of China.</p>
 <p>I'm currently studying the coastal dynamics in the Chinese adjacent waters with numerical models. </p>
 
-<h3> Education</h3>
-  <li>PhD., Physical Oceanography, Ocean University of China, 2020-present</li>
-  <li>M.S., Physical Oceanography, Ocean University of China, 2018-2020</li>
-  <li>B.S., Marine Science, Ocean University of China, 2014-2018</li>
+<h3> RESEARCH INTEREST</h3>
+  <li>Modelling on coastal hydrodynamic and biogeochemical processes</li>
+  <li>Application of ocean wave models in shelf regions</li>
+  <li>Investigation of water quality and ecological conditions</li>
+
+<h3> EDUCATION</h3>
+  <li>Ph.D., Physical Oceanography, Ocean Univ. of China, 2020-present</li>
+  <li>M.S. (bypassed to Ph.D. program), Physical Oceanography, Ocean Univ. of China, 2018-2020</li>
+  <li>B.S., Marine Science, Ocean Univ. of China, 2014-2018</li>
 
 <h3> Research Experience</h3>
 <li>Jun. 2022 to Present:</li>
