@@ -46,6 +46,10 @@ I have rich experiences in applying numerical ocean models (e.g. SCHISM, ROMS, F
 <h3> Language Skills</h3>
 <li>English —— Limited Business Proficiency (In preparation for TOEFL test)</li>
 <li>Chinese —— Native Speaker</li>
+
+<h3> Personal Websites</h3>
+<li>[ResearchGate](https://www.researchgate.net/profile/Wenfan-Wu)</li>
+<li>[Googgle Scholar](https://scholar.google.com.hk/citations?user=oyWxkVIAAAAJ&hl=zh-CN)</li>
 <p></p>
 
 
