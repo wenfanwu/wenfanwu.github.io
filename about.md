@@ -28,7 +28,7 @@ Hello, this is Wenfan Wu!
 <h3> Publications</h3>
 <h4> Published</h4>
   <li>**Wu, W.**, Zhai, F., Liu, C., Gu, Y., & Li, P. (2023). Three-dimensional structure of summer circulation in the Bohai Sea and its intraseasonal variability. Ocean Dynamics.</li>
-  <li>Wu, W., Zhai, F., Gu, Y., Liu, Z., & Li, P. (2023). Weak local upwelling elevates the risks of ecological disasters in shallow waters. Environmental Research Letters.</li>
+  <li>**Wu, W.**, Zhai, F., Gu, Y., Liu, Z., & Li, P. (2023). Weak local upwelling elevates the risks of ecological disasters in shallow waters. Environmental Research Letters.</li>
   <li>**Wu, W.**, Liu, Z., Zhai, F., Li, P., Gu, Y., & Wu, K. (2021). A quantitative method to calibrate the SWAN wave model based on the whitecapping dissipation term. Applied Ocean Research, 114, 102785.</li>
   <li>**Wu, W.**, Li, P., Zhai, F., Gu, Y., & Liu, Z. (2020). Evaluation of different wind resources in simulating wave height for the Bohai, Yellow, and East China Seas (BYES) with SWAN model. Continental Shelf Research, 207, 104217.</li>
   <li>Zhai, F., **Wu, W.**, Gu, Y., Li, P., & Liu, Z. (2021). Dynamics of the seasonal wave height variability in the South China Sea. International Journal of Climatology, 41(2), 934-951.</li>
@@ -48,8 +48,8 @@ I have rich experiences in applying numerical ocean models (e.g. SCHISM, ROMS, F
 <li>Chinese —— Native Speaker</li>
 
 <h3> Personal Websites</h3>
-<li> [ResearchGate](https://www.researchgate.net/profile/Wenfan-Wu)</li>
-<li> [Googgle Scholar](https://scholar.google.com.hk/citations?user=oyWxkVIAAAAJ&hl=zh-CN)</li>
+<li>[ResearchGate](https://www.researchgate.net/profile/Wenfan-Wu)</li>
+<li>[Googgle Scholar](https://scholar.google.com.hk/citations?user=oyWxkVIAAAAJ&hl=zh-CN)</li>
 <p></p>
 
 
