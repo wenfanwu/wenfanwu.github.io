@@ -48,8 +48,8 @@ I have rich experiences in applying numerical ocean models (e.g. SCHISM, ROMS, F
 <li>Chinese —— Native Speaker</li>
 
 <h3> Personal Websites</h3>
-[ResearchGate](https://www.researchgate.net/profile/Wenfan-Wu)
-<li>[Googgle Scholar](https://scholar.google.com.hk/citations?user=oyWxkVIAAAAJ&hl=zh-CN)</li>
+<li>[ResearchGate] (https://www.researchgate.net/profile/Wenfan-Wu)</li>
+<li>[Googgle Scholar] (https://scholar.google.com.hk/citations?user=oyWxkVIAAAAJ&hl=zh-CN)</li>
 <p></p>
 
 
