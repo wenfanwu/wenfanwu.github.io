@@ -27,7 +27,7 @@ Hello, this is Wenfan Wu!
 
 <h3> Publications</h3>
 <h4> Published</h4>
-  <li>Wu, W., Zhai, F., Liu, Z., Liu, C., Gu, Y., & Li, P. (2023). The spatial and seasonal variability of nutrient status in the seaward rivers of China shaped by the human activities. Ecological Indicators. </li>
+  <li>**{Wu, W.}**, Zhai, F., Liu, Z., Liu, C., Gu, Y., & Li, P. (2023). The spatial and seasonal variability of nutrient status in the seaward rivers of China shaped by the human activities. Ecological Indicators. </li>
   <li>**Wu, W.**, Zhai, F., Gu, Y., Liu, Z., & Li, P. (2023). Weak local upwelling elevates the risks of ecological disasters in shallow waters. Environmental Research Letters.</li>
   <li>**Wu, W.**, Zhai, F., Liu, C., Gu, Y., & Li, P. (2023). Three-dimensional structure of summer circulation in the Bohai Sea and its intraseasonal variability. Ocean Dynamics.</li>
   <li>**Wu, W.**, Liu, Z., Zhai, F., Li, P., Gu, Y., & Wu, K. (2021). A quantitative method to calibrate the SWAN wave model based on the whitecapping dissipation term. Applied Ocean Research, 114, 102785.</li>
