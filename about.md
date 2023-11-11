@@ -38,7 +38,7 @@ Hello, this is Wenfan Wu!
   <li>Li, J., Li, P., Bai, P., Zhai, F., Gu, Y., Liu, C., ... & **Wu, W.** (2022). Abrupt change of a thermal front in a high-biomass coastal zone during early spring. Frontiers in Marine Science, 9, 1092984.</li>
   <li>Song, X., Gu, Y., Zhai, F., Li, P., Liu, P., Liu, Z., **Wu, W.**, ... & He, J. (2021). Climatology and seasonal variability of satellite-derived chlorophyll-a around the Shandong Peninsula. Journal of Oceanology and Limnology, 39(4), 1222-1244.</li>
 <h4> Under Revision</h4>
-  <li>Lei, Z., Wu, W., Zhai, F., Gu, Y., & Li, P. (2023). A general method for the optimal whitecapping dissipation coefficient in the SWAN model. Ocean Modelling, under review.</li>
+  <li>Lei, Z., Wu, W., Zhai, F., Gu, Y., & Li, P. (2023). A general method for the optimal whitecapping dissipation coefficient in the SWAN model. Frontiers in Marine Science, under review.</li>
 
 <h3> Professional Skills</h3>
 I have rich experiences in applying numerical ocean models (e.g. SCHISM, ROMS, FVCOM, and SWAN), and familiar with multiple programming languages (e.g. MATLAB, Python, Fortran).
