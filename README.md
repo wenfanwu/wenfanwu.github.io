@@ -1,3 +1,3 @@
-# Wenfan Wu's Blog
+# Wenfan Wu's Personal Website
 
-Hello, strangers~
+This Wenfan Wu's personal website
