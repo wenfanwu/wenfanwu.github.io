@@ -1,7 +1,7 @@
 # About me
-Hello, this is Wenfan Wu!
+Hi there, this is Wenfan Wu!
 <p>I am an amatuer programming enthusiast, a skillful ocean modeller, and a PhD candidate from the Ocean Unviersity of China.</p>
-<p>I'm currently studying the coastal dynamics in the Chinese adjacent waters with numerical models. </p>
+<p>I'm currently wokring on the ecosystem dynamics in the Chinese adjacent waters with numerical models. </p>
 
 <h3> Research Interest</h3>
   <li>Modelling on coastal hydrodynamic and biogeochemical processes</li>
@@ -32,19 +32,20 @@ Hello, this is Wenfan Wu!
   <li>**Wu, W.**, Zhai, F., Liu, C., Gu, Y., & Li, P. (2023). Three-dimensional structure of summer circulation in the Bohai Sea and its intraseasonal variability. Ocean Dynamics, 73, 679–698. https://doi.org/10.1007/s10236-023-01576-6</li>
   <li>**Wu, W.**, Liu, Z., Zhai, F., Li, P., Gu, Y., & Wu, K. (2021). A quantitative method to calibrate the SWAN wave model based on the whitecapping dissipation term. Applied Ocean Research, 114, 102785. https://doi.org/10.1016/j.apor.2021.102785</li>
   <li>**Wu, W.**, Li, P., Zhai, F., Gu, Y., & Liu, Z. (2020). Evaluation of different wind resources in simulating wave height for the Bohai, Yellow, and East China Seas (BYES) with SWAN model. Continental Shelf Research, 207, 104217. https://doi.org/10.1016/j.csr.2020.104217</li>
+  <li>Lei, Z., Wu, W., Gu, Y., Zhai, F., & Li, P. (2023). A general method to determine the optimal whitecapping dissipation coefficient in the SWAN model. Frontiers in Marine Science, 10.</li>
   <li>Zhai, F., **Wu, W.**, Gu, Y., Li, P., & Liu, Z. (2021). Dynamics of the seasonal wave height variability in the South China Sea. International Journal of Climatology, 41(2), 934-951.</li>
   <li>Zhai, F., **Wu, W.**, Gu, Y., Li, P., Song, X., Liu, P., ... & He, J. (2021). Interannual-decadal variation in satellite-derived surface chlorophyll-a concentration in the Bohai Sea over the past 16 years. Journal of Marine Systems, 215, 103496.</li>
   <li>Zhai, F., Liu, Z., Li, P., Gu, Y., Sun, L., Hu, L., ... & **Wu, W.** (2021). Physical controls of summer variations in bottom layer oxygen concentrations in the coastal hypoxic region off the northeastern Shandong Peninsula in the Yellow Sea. Journal of Geophysical Research: Oceans, 126(5), e2021JC017299.</li>
   <li>Li, J., Li, P., Bai, P., Zhai, F., Gu, Y., Liu, C., ... & **Wu, W.** (2022). Abrupt change of a thermal front in a high-biomass coastal zone during early spring. Frontiers in Marine Science, 9, 1092984.</li>
   <li>Song, X., Gu, Y., Zhai, F., Li, P., Liu, P., Liu, Z., **Wu, W.**, ... & He, J. (2021). Climatology and seasonal variability of satellite-derived chlorophyll-a around the Shandong Peninsula. Journal of Oceanology and Limnology, 39(4), 1222-1244.</li>
 <h4> Under Revision</h4>
-  <li>Lei, Z., **Wu, W.**, Zhai, F., Gu, Y., & Li, P. (2023). A general method for the optimal whitecapping dissipation coefficient in the SWAN model. Frontiers in Marine Science, accepted.</li>
+  <li>**Wu, W.**, Song, C., Chen, Y., Zhai, F., Liu, Z., Liu, C., Gu, Y., & Li, P. (2024). High-frequency dynamics of bottom layer dissolved oxygen in temperate shelf seas: a case study in the Bohai Sea. Limnology and Oceanography, Under Revision.</li>
 
 <h3> Professional Skills</h3>
 I have rich experiences in applying numerical ocean models (e.g. SCHISM, ROMS, FVCOM, and SWAN), and familiar with multiple programming languages (e.g. MATLAB, Python, Fortran).
 
 <h3> Language Skills</h3>
-<li>English —— Limited Business Proficiency (In preparation for TOEFL test)</li>
+<li>English —— Limited Business Proficiency</li>
 <li>Chinese —— Native Speaker</li>
 
 <h3> Personal Websites</h3>
