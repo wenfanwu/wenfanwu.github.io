@@ -17,7 +17,7 @@ Hi there, this is Wenfan Wu!
 <li>Jun. 2022 to Present:</li>
   <p>Quantifying the riverine nutrient flux into the coastal regions of China Mainland</p>
   <p>Physical controls on the ecological disasters off the Qinhuangdao coast, China with the SCHISM model</p>
-  <p>Investigating ecological effects of Yellow River Plume in the Bohai Sea with the SCHISM-CoSiNE coupled model</p>
+  <p>High-frequency dynamics of bottom-layer dissolved oxygen in the Bohai Sea</p>
 
 <li>Sep. 2020 to Jun. 2022:</li>
   <p>3D structure and physical mechanism of the Bohai summer circulation system with SCHISM</p>
@@ -39,7 +39,7 @@ Hi there, this is Wenfan Wu!
   <li>Li, J., Li, P., Bai, P., Zhai, F., Gu, Y., Liu, C., ... & **Wu, W.** (2022). Abrupt change of a thermal front in a high-biomass coastal zone during early spring. Frontiers in Marine Science, 9, 1092984.</li>
   <li>Song, X., Gu, Y., Zhai, F., Li, P., Liu, P., Liu, Z., **Wu, W.**, ... & He, J. (2021). Climatology and seasonal variability of satellite-derived chlorophyll-a around the Shandong Peninsula. Journal of Oceanology and Limnology, 39(4), 1222-1244.</li>
 <h4> Under Revision</h4>
-  <li>**Wu, W.**, Song, C., Chen, Y., Zhai, F., Liu, Z., Liu, C., Gu, Y., & Li, P. (2024). High-frequency dynamics of bottom layer dissolved oxygen in temperate shelf seas: a case study in the Bohai Sea. Limnology and Oceanography, Under Revision.</li>
+  <li>**Wu, W.**, Song, C., Chen, Y., Zhai, F., Liu, Z., Liu, C., Gu, Y., & Li, P. (2024). High-frequency dynamics of bottom layer dissolved oxygen in temperate shelf seas: a case study in the Bohai Sea. Limnology and Oceanography, Under Review.</li>
 
 <h3> Professional Skills</h3>
 I have rich experiences in applying numerical ocean models (e.g. SCHISM, ROMS, FVCOM, and SWAN), and familiar with multiple programming languages (e.g. MATLAB, Python, Fortran).
