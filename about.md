@@ -25,23 +25,10 @@ Hi there, this is Wenfan Wu!
 <li>Sep. 2018 to Sep. 2020: </li>
   <p>Evaluation and calibration of the SWAN wave model</p>
   
-<style>
-  ol {
-    list-style: none;
-    counter-reset: pubCounter;
-  }
-
-  ol li:before {
-    content: "[" counter(pubCounter) "] ";
-    counter-increment: pubCounter;
-    font-weight: bold;
-  }
-</style>
-
 <h3> Publications</h3>
 <h4> Published</h4>
-<ol>
-  <li><strong>Wu, W.</strong>, Zhai, F., Liu, Z., Liu, C., Gu, Y., & Li, P. (2023). The spatial and seasonal variability of nutrient status in the seaward rivers of China shaped by the human activities. Ecological Indicators. https://doi.org/10.1016/j.ecolind.2023.111223 </li>
+<ol start="1">
+  <li>[1]<strong>Wu, W.</strong>, Zhai, F., Liu, Z., Liu, C., Gu, Y., & Li, P. (2023). The spatial and seasonal variability of nutrient status in the seaward rivers of China shaped by the human activities. Ecological Indicators. https://doi.org/10.1016/j.ecolind.2023.111223 </li>
   <li><strong>Wu, W.</strong>, Zhai, F., Gu, Y., Liu, Z., & Li, P. (2023). Weak local upwelling may elevate the risks of harmful algal blooms and hypoxia in shallow waters during the warm season. Environmental Research Letters, 18, 114031. https://doi.org/10.1088/1748-9326/ad0256</li>
   <li><strong>Wu, W.</strong>, Zhai, F., Liu, C., Gu, Y., & Li, P. (2023). Three-dimensional structure of summer circulation in the Bohai Sea and its intraseasonal variability. Ocean Dynamics, 73, 679–698. https://doi.org/10.1007/s10236-023-01576-6</li>
   <li><strong>Wu, W.</strong>, Liu, Z., Zhai, F., Li, P., Gu, Y., & Wu, K. (2021). A quantitative method to calibrate the SWAN wave model based on the whitecapping dissipation term. Applied Ocean Research, 114, 102785. https://doi.org/10.1016/j.apor.2021.102785</li>
