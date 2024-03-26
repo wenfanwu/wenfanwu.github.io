@@ -24,6 +24,19 @@ Hi there, this is Wenfan Wu!
 
 <li>Sep. 2018 to Sep. 2020: </li>
   <p>Evaluation and calibration of the SWAN wave model</p>
+  
+<style>
+  ol {
+    list-style: none;
+    counter-reset: pubCounter;
+  }
+
+  ol li:before {
+    content: "[" counter(pubCounter) "] ";
+    counter-increment: pubCounter;
+    font-weight: bold;
+  }
+</style>
 
 <h3> Publications</h3>
 <h4> Published</h4>
