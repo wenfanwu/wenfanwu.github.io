@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Wenfan Wu, a PhD candidate in physical oceanography at the Ocean Unviersit of China.
+Hi there! I am Wenfan Wu, a PhD candidate in physical oceanography at the Ocean University of China.
 
 A data-driven personal websit
 ======
