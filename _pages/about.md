@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Wenfan Wu, a PhD candidate in physical oceanography at the Ocean University of China.
+Hi there! My name is Wenfan Wu. I am a seasoned ocean modeller and an enthusiastic amateur programmer based in China. My research is primarily focused on investigating nearshore ocean dynamics and biogeochemical processes using numerical ocean models like SCHISM and ROMS.
 
 Education Background
 ------
