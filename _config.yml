@@ -146,6 +146,8 @@ include:
   - .htaccess
   - _pages
   - files
+  - 'files/wenfanwu_cv.pdf'
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
