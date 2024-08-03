@@ -21,14 +21,14 @@ repository               : "wenfanwu/wenfanwu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/wenfanwu_avator.jpg"
+  avatar           : "wenfanwu_avator.jpg"
   name             : "Wenfan Wu"
   pronouns         : # example: "he/his/him"  
   bio              : "Carpe diem"
   location         : "Gloucester Point, VA"
   employer         : "Virginia Institute of Marine Science"
   uri              : # URL
-  email            : "wenfanwu@stu.ouc.edu.cn" 
+  email            : "wwu@vims.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
