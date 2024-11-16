@@ -21,7 +21,7 @@ repository               : "wenfanwu/wenfanwu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : images/profile.png
+  avatar           : "images/profile.png"
   name             : "Wenfan Wu"
   pronouns         : # example: "he/his/him"  
   bio              : "Carpe diem"
@@ -147,8 +147,8 @@ include:
   - _pages
   - files
   - images
-  - files/wenfanwu_cv.pdf
-  - images/profile.png
+  - "files/wenfanwu_cv.pdf"
+  - "images/profile.png"
 
 exclude:
   - "*.sublime-project"
