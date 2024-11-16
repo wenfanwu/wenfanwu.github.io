@@ -147,8 +147,8 @@ include:
   - _pages
   - files
   - images
-  - "files/wenfanwu_cv.pdf"
-  - "images/profile.png"
+  - "/files/wenfanwu_cv.pdf"
+  - "/images/profile.png"
 
 exclude:
   - "*.sublime-project"
