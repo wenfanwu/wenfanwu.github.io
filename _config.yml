@@ -146,8 +146,9 @@ include:
   - .htaccess
   - _pages
   - files
-  - 'images/bio-photo-2.jpg'
+  - images
   - 'files/wenfanwu_cv.pdf'
+  - 'images/bio-photo-2.jpg'
 
 exclude:
   - "*.sublime-project"
