@@ -148,7 +148,7 @@ include:
   - files
   - images
   - 'files/wenfanwu_cv.pdf'
-  - 'images/bio-photo-2.jpg'
+  - 'images/profile.png'
 
 exclude:
   - "*.sublime-project"
