@@ -146,7 +146,7 @@ include:
   - .htaccess
   - _pages
   - files
-  - images
+  - 'images/bio-photo-2.jpg'
   - 'files/wenfanwu_cv.pdf'
 
 exclude:
