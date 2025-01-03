@@ -21,7 +21,7 @@ repository               : "wenfanwu/wenfanwu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "/images/site-logo.png"
   name             : "Wenfan Wu"
   pronouns         : # example: "he/his/him"  
   bio              : "Carpe diem"
