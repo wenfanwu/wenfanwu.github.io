@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Modulation of Tidal Mixing on the Spatiotemporal Characteristics of Bottom Dissolved Oxygen in the Bohai Sea"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
