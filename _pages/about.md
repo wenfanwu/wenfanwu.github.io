@@ -7,5 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Wenfan Wu (吴文凡). I am a seasoned ocean modeller and an enthusiastic amateur programmer based in China. My research is primarily focused on investigating nearshore ocean dynamics and biogeochemical processes with numerical ocean models like SCHISM and ROMS. I earned my PhD from Ocean University of China in the summer of 2024. Throughout my doctoral studies, I conducted several intriguing research projects on the waters adjacent to China. These studies provided me with a robust foundation in nearshore biogeochemical knowledge and enhanced my modeling expertise. You can view a list of my peer-reviewed publications on this website. In addition to my research, I developed several practical tools using MATLAB, designed to aid in learning the SCHISM ocean model.
+Hi there! My name is Wenfan Wu (吴文凡). I am an experienced ocean modeler and passionate amateur programmer from China. My research focuses on nearshore ocean dynamics and biogeochemical processes, utilizing advanced numerical ocean models (e.g., SCHISM).
+
+I earned my PhD from Ocean University of China in the summer of 2024. During my doctoral studies, I undertook several fascinating research projects on the waters surrounding China. These experiences not only deepened my expertise in nearshore biogeochemical processes but also honed my skills in ocean modeling. Currently, I am engaged in the development of the Phase 7 Chesapeake Bay Water Quality Model with SCHISM developer's team. 
+
+In addition to my research, I have developed a suite of practical MATLAB tools aimed at facilitating the learning and application of the SCHISM ocean model.
 
