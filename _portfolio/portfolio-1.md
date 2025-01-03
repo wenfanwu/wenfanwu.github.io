@@ -1,6 +1,6 @@
 ---
-title: "Modulation of Tidal Mixing on the Spatiotemporal Characteristics of Bottom Dissolved Oxygen in the Bohai Sea"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "High‐frequency dynamics of bottom dissolved oxygen in temperate shelf seas The joint role of tidal mixing and sediment oxygen demand"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio.png'>"
 collection: portfolio
 ---
 
