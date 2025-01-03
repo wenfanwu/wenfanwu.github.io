@@ -1,6 +1,6 @@
 ---
 title: "High‐frequency dynamics of bottom dissolved oxygen in temperate shelf seas: The joint role of tidal mixing and sediment oxygen demand"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio_s1.png' alt='Project Image' width='600' height='400'>"
+excerpt: "This study investigated the high-frequency dynamics of bottom dissolved oxygen using submarine observations and ecosystem model <br/><img src='/images/portfolio_s1.png' alt='Project Image' width='600' height='400'>"
 collection: portfolio
 ---
 
